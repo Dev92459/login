@@ -22,6 +22,17 @@ padding: 10px;
 
 form label, form input {
     display: block;
-    width: 100%;
-    
+    width: 100%;  
+}
+.input-email{
+padding: 5px;
+border-radius: 5px;
+margin-top: 2px;
+font-size: 16px;
+}
+
+.label-email{
+margin-top: 10px;
+font-weight: bold;
+
 }
