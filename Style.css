@@ -2,6 +2,7 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
+font-family: sans-serif;
 }
 
 body{
@@ -21,7 +22,7 @@ padding: 10px;
 }
 
 form label, form input {
-    display: block;
+    display: block
     width: 100%;  
 }
 .input-email{
@@ -34,5 +35,18 @@ font-size: 16px;
 .label-email{
 margin-top: 10px;
 font-weight: bold;
+
+    width: 100%;
+    
+}
+
+.label-pass{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.input-pass{
+    font-size: 16px;
+    border-radius: 2px;
+    padding: 10px;
 
 }
